@@ -2,7 +2,7 @@
 
 <h3>Essse projeto eu aprendi com o Rodolfo Mori no <a href="https://rodolfomori.com.br/devclub-n1/">DevClub</a></h3>
 
-<a href="https://danmoraes1.github.io/Easy-Shopping/">Link do Projeto<a/>
+<a href="https://danmoraes1.github.io/Wide-Coverage-Location/">Link do Projeto<a/>
 
 <img src="https://github.com/Danmoraes1/Wide-Coverage-Location/assets/123409124/5f33cd02-ba2f-439f-8ee0-463c8b8092f4"> 
 
